@@ -1,0 +1,609 @@
+{
+  "viewports": [
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "catalog.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "contacts.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "index.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "order.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-13-pro.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-x.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-13c.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-note-13.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s10.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s8.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product.html",
+      "width": 360,
+      "scroll": 360,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "catalog.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "contacts.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "index.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "order.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-13-pro.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-x.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-13c.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-note-13.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s10.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s8.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product.html",
+      "width": 430,
+      "scroll": 430,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "catalog.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "contacts.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "index.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "order.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-13-pro.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-x.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-13c.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-note-13.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s10.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s8.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product.html",
+      "width": 768,
+      "scroll": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "catalog.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "contacts.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "index.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "order.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-13-pro.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-x.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-13c.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-note-13.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s10.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s8.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product.html",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "catalog.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "contacts.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "index.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "order.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-13-pro.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-iphone-x.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-13c.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi-note-13.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-redmi.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s10.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung-s8.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product-samsung.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    },
+    {
+      "project": "kr2-bootstrap-shop",
+      "page": "product.html",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "viewport": true
+    }
+  ],
+  "scenarios": [
+    {
+      "project": "kr2-bootstrap-shop",
+      "result": "passed",
+      "checks": [
+        "mobile menu",
+        "modal selection",
+        "modal focus trap",
+        "Escape closes modal",
+        "catalog filter",
+        "empty state",
+        "filter reset",
+        "price sorting",
+        "model passed to order",
+        "order validation",
+        "contact validation",
+        "no JS errors"
+      ]
+    }
+  ]
+}
